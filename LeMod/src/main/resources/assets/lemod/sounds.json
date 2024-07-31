@@ -1,0 +1,18 @@
+{
+	"portal_radio": {
+		"sounds": [
+			{
+				"name": "lemod:portal_radio",
+				"stream": true
+			}
+		]
+	},
+	"yippee": {
+		"sounds": [
+			{
+				"name": "lemod:yippee",
+				"stream": true
+			}
+		]
+	}
+}

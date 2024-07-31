@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"~/~",
+		"~-~",
+		" ~ "
+	],
+	"key": {
+		"~": {
+			"item": "minecraft:copper_ingot"
+		},
+		"/": {
+			"item": "minecraft:amethyst_shard"
+		},
+		"-": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "lemod:fusion_core"
+	}
+}

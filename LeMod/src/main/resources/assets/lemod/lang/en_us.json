@@ -1,0 +1,25 @@
+{
+	"itemGroup.lemod": "Le Mod Items",
+	
+	"item.lemod.smile": "Smiley Face",
+	
+	"item.lemod.fruit": "Fruit",
+	
+	"item.lemod.steel_ingot": "Steel Ingot",
+	
+	"item.lemod.fusion_core": "Fusion Core",
+	
+	"item.lemod.chassis_helmet": "Power Armor Chassis Helmet",
+	
+	"block.lemod.steel_block": "Steel Block",
+	
+	"block.lemod.steel_furnace": "Steel Furnace",
+	
+	"item.lemod.portal_radio_music_disc": "Portal Radio Music Disc",
+	
+	"item.lemod.portal_radio_music_disc.desc": "Portal Radio - Portal 1",
+	
+	"item.lemod.yippee_music_disc": "Yippee Music Disc",
+	
+	"item.lemod.yippee_music_disc.desc": "Yippee - Unknown"
+}
